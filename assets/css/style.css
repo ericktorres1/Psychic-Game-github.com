@@ -1,0 +1,65 @@
+body {
+    background: url('../images/23525.jpg');
+    background-size: 100%;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+.image-div {
+    border: 3px dashed darkgray;
+    padding: 30px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.image-div img {
+    width: 100%;
+    opacity: .8;
+}
+.btn {
+    margin-left: 150px;
+}
+.image-div h2 {
+    border: 1px solid darkgray;
+}
+.underscores{
+    border: 3px dashed darkgray;
+    padding: 30px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.underscores h2 {
+    padding-top: 300px;
+}
+
+.rules {
+    border: 3px dashed darkgray;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+.rightGuess {
+    margin-top: 30px;
+    padding-bottom: 50px;
+    border: 3px dashed darkgray;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+.wrongGuess {
+    margin-top: 30px;
+    padding-bottom: 50px;
+    border: 3px dashed darkgray;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
